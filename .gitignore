@@ -1,0 +1,8 @@
+# Default ignored files
+Thumbs.db
+.DS_Store
+node_modules/
+.obsidian/
+venv/
+__pycache__/
+*.log
