@@ -1,6 +1,6 @@
 # Computer Networking: A Top-down Approach
 
-Data Engineering 과정 중 서비스 단에서 시작되는 통신을 정확히 이해할 필요성이 생겨
+Data Engineering 과정 중 서비스 단에서 시작되는 통신을 정확히 이해할 필요성을 느껴, 학부시절 학습한
 
 [컴퓨터 네트워킹: 하향식 접근 (제8판)](https://product.kyobobook.co.kr/detail/S000003156025)을 다시 읽고 정리하고자 함.
 
