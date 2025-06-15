@@ -9,7 +9,10 @@
 ---
 인터넷의 구성요소
 
-![인터넷의 구성요소](https://github.com/user-attachments/assets/4d62dd80-df18-4b73-8854-d5b2dd5d80b1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d62dd80-df18-4b73-8854-d5b2dd5d80b1" alt="테스트 이미지" width="500"/>
+</p>
+
 
 
 ![[Pasted image 20250616020420.png]]
