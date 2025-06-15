@@ -1,4 +1,5 @@
 # Default ignored files
+attachments/
 Thumbs.db
 .DS_Store
 node_modules/

@@ -9,11 +9,15 @@
 ---
 인터넷의 구성요소
 
-![[Pasted image 20250616004354.png]]
+![[Pasted image 20250616020420.png]]
 
 ### 인터넷(Internet)
 
 - 수 많은 컴퓨팅 장치를 연결하는 네트워크
+
+### Computing Devices(컴퓨팅 장치)
+
+- Hosts, End Systems 라 불리며 네트워크에 연결된 장치를 의미한다. 컴퓨터, 태블릿 같은 물리적 장치가 될 수도 있고 크롬 등의 소프트웨어 프로그램이 될 수도 있다.
 
 ### Communication links(통신 링크)
 
@@ -34,4 +38,4 @@
 
 ### Networks(네트워크)
 
-- 위 devices, routers, links
+- 위 devices, routers, Communication links의 총 집합체
