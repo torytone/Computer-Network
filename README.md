@@ -9,7 +9,7 @@ Data Engineering 과정 중 서비스 단에서 시작되는 통신을 정확히
 1. [Computer Networks and the Internet](https://github.com/torytone/Computer-Network/tree/main/Chapter_1)
 2. [The Application Layer](https://github.com/torytone/Computer-Network/tree/main/Chapter_2)
 3. [The Transport Layer](https://github.com/torytone/Computer-Network/tree/main/Chapter_3)
-4. The Network Layer: the Data Plane
+4. [The Network Layer: the Data Plane](https://github.com/torytone/Computer-Network/tree/main/Chapter_4)
 5. The Network Layer: the Control Plane
 6. The Link Layer
 7. Wireless and Mobile Networks
